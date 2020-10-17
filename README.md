@@ -1,4 +1,4 @@
 # IOT-TASK-6 <br />
-Challenging Experiment on 'IOT FUNDAMENTALS (ECE3501)' <br />
+**Challenging Experiment on 'IOT FUNDAMENTALS (ECE3501)'**<br /><br />
 18BEE0140 - KANKANAMPATI SATYA DEVA HANUMANTH CHARAN <br />
 18BEE0070 - GOURANGA SATAPATHY <br />
